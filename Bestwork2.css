@@ -1,0 +1,12 @@
+.text{
+	color: black;
+	background-color: #ffb5a6;
+}
+.div{
+	height: 1050px;
+	width: 1270px;
+	border-radius: 2px;
+    border:13px solid #c5a6ff;
+	background-color: #a6d8ff;
+	margin:auto;
+}

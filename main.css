@@ -1,0 +1,24 @@
+.ytyt{
+	height: 1050px;
+	width: 1270px;
+	border-radius: 2px;
+    border:13px solid #a9a8f7;
+	background-color: #a8f7b9;
+	margin:auto;
+}
+.kiki{
+	color: gray;
+	background-color: #e9f7a8;
+	text-align: center;
+}
+.picture{
+	height: 200px;
+	width: 300px;	
+	margin-left: 10px;
+}
+.text{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	background-color: #f7e9a8
+}
